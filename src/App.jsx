@@ -1,6 +1,8 @@
 import Hero from './components/Hero'
 import Contentd from './components/Contentd'
-
+import Startdd from './components/Startis'
+import Testid from './components/Testimonial'
+import Ftds from './components/footer'
 import './App.css'
 
 function App() {
@@ -10,6 +12,9 @@ function App() {
     
 
     <Contentd/>
+    <Startdd/>
+    <Testid/>
+    <Ftds/>
 
  </main>
     
