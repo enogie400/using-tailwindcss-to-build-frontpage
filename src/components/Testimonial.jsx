@@ -1,6 +1,6 @@
 
 
-function Testid(){
+function Tesid(){
 
 return(
 <section class="relative isolate overflow-hidden bg-white px-6 py-24 sm:py-32 lg:px-8">
@@ -33,4 +33,4 @@ return(
 
 }
 
-export default Testid;
+export default Tesid;
